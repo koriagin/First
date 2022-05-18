@@ -7,3 +7,4 @@ I like the way it works. Each time there is an amendment, we see an updated vers
 
 Hello, it is May 17th, Back to learning at Epam learn.
 rrrrrrr
+I would like to add several things to Feature in order to test branching, see how it works. 
